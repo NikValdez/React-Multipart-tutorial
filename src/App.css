@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  display: flex;
+  margin-top: 50px;
+  display: block;
+}
+.form {
+  margin: auto;
+}
+
+button {
+  margin: 20px;
+}
